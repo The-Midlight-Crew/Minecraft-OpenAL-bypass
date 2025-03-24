@@ -1,6 +1,13 @@
 # Minecraft-OpenAL-bypass
 This is a modified version of Prism Launcher that bypasses the issues that some anti-viruses have with OpenAL. 
 
+## How too use.
+1. Download the latest release.
+2. Unzip it.
+3. Run Prism Launcher.
+
+That's it. If you have trouble, then create an issue. If your antivirus flags something else, create an issue and we'll try to find a library that works.
+
 ## Wait, what do you mean a modified version?
 
 It's literally just Prism Launcher but with one setting changed and a different audio library. In fact, you can check for yourself. All that should be different is prismlauncher.config file, soft_oal.dll, and maybe the accounts.json file and logs folder because I didn't want to give my Minecraft account away.
