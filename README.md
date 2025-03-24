@@ -10,7 +10,7 @@ It's an audio library that supports surround sound and various other audio relat
 
 ## Why is it the portable version of Prism Launcher?
 
-Because if you can install normal Prism Launcher, then the chances that your computer has issues with OpenAL is low.
+Because if you can install normal Prism Launcher, then the chances that your computer has issues with OpenAL are low.
 
 ## Can I do this myself if I don't trust you?
 
