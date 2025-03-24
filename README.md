@@ -14,7 +14,7 @@ Because if you can install normal Prism Launcher, then the chances that your com
 
 ## Can I do this myself if I don't trust you?
 
-Yup.
+Yup. It's just compicated.
 1. Download the Portable version of Prism Launcher from [here](https://prismlauncher.org/)
 2. Download the top file on the list from [here](https://github.com/kcat/openal-soft/releases/tag/1.24.2). This is the Audio Library. 
 3. Hit extract all, then move the folder from Downloads to This PC (C:\). Your screen should look kind of like this: ![image](https://github.com/user-attachments/assets/591b0c54-febf-4e7b-9cef-60269f88688c)
