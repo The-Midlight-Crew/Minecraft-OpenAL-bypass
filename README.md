@@ -1,7 +1,7 @@
 # Minecraft-OpenAL-bypass
 This is a modified version of Prism Launcher that bypasses the issues that some anti-viruses have with OpenAL. 
 
-## How too use.
+## How to use.
 1. Download the latest release.
 2. Unzip it.
 3. Run Prism Launcher.
