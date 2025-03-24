@@ -3,7 +3,7 @@ This is a modified version of Prism Launcher that bypasses the issues that some 
 
 ## Wait, what do you mean a modified version?
 
-It's literally just Prism Launcher but with one setting changed and a different audio library.
+It's literally just Prism Launcher but with one setting changed and a different audio library. In fact, you can check for yourself. All that should be different is prismlauncher.config file, soft_oal.dll, and maybe the accounts.json file and logs folder because I didn't want to give my Minecraft account away.
 
 ## What's OpenAL?
 It's an audio library that supports surround sound and various other audio related things. For some reason, some anti-viruses flag it, so we swapped it out with Soft OpenAL, and then changed the setting in Prism Launcher that checks what folder to get the audio library from. :D
